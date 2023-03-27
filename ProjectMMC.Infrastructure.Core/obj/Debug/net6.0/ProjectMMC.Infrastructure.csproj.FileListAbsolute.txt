@@ -1,0 +1,15 @@
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\bin\Debug\net6.0\ProjectMMC.Infrastructure.deps.json
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\bin\Debug\net6.0\ProjectMMC.Infrastructure.dll
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\bin\Debug\net6.0\ProjectMMC.Infrastructure.pdb
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.csproj.AssemblyReference.cache
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.AssemblyInfoInputs.cache
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.AssemblyInfo.cs
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.dll
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\refint\ProjectMMC.Infrastructure.dll
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.pdb
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ref\ProjectMMC.Infrastructure.dll
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\bin\Debug\net6.0\ProjectMMC.Core.dll
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\bin\Debug\net6.0\ProjectMMC.Core.pdb
+C:\test\Extension task\Project MMC\ProjectMMC.Infrastructure.Core\obj\Debug\net6.0\ProjectMMC.Infrastructure.csproj.CopyComplete
